@@ -3,7 +3,7 @@
 # dependencies
 /node_modules
 /.pnp
-/new-post
+/src/components/new-post
 .pnp.js
 
 # testing
