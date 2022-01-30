@@ -1,0 +1,24 @@
+.list {
+  margin: 32px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+button {
+  border: none;
+  border-radius: 4px;
+  padding: 8px 16px;
+  margin-top: 12px;
+}
+
+.photoContainer img {
+  width: 75px;
+  margin-top: 10px;
+}
+
+.photoContainer {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}

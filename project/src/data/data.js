@@ -13,7 +13,7 @@ export const items = [
     date: "2020.12.19",
     desc: "대바늘로 제작한 나뭇잎 손모아장갑입니다.",
     src: "../../images/berryGlove.jpg",
-    like: 10,
+    like: 0,
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ export const items = [
     date: "2020.12.23",
     desc: "대바늘로 제작한 목도리입니다.",
     src: "../../images/berryNeckWarmer.jpg",
-    like: 100,
+    like: 0,
   },
   {
     id: 3,
@@ -29,7 +29,7 @@ export const items = [
     date: "2021.05.01",
     desc: "대바늘로 제작한 목도리입니다.",
     src: "../../images/bdayCrown.jpg",
-    like: 100,
+    like: 0,
   },
   {
     id: 4,
@@ -37,7 +37,7 @@ export const items = [
     date: "2021.05.03",
     desc: "코바늘로 제작한 목도리입니다.",
     src: "../../images/teaCoaster.jpg",
-    like: 100,
+    like: 0,
   },
   {
     id: 5,
@@ -45,7 +45,7 @@ export const items = [
     date: "2021.07.30",
     desc: "코바늘로 제작한 목도리입니다.",
     src: "../../images/appleTeaCoaster.jpg",
-    like: 100,
+    like: 0,
   },
   {
     id: 6,
@@ -53,7 +53,7 @@ export const items = [
     date: "2021.12.16",
     desc: "대바늘로 제작한 목도리입니다.",
     src: "../../images/Vest.jpg",
-    like: 100,
+    like: 0,
   },
   {
     id: 7,
@@ -61,7 +61,7 @@ export const items = [
     date: "2022.01.21",
     desc: "대바늘로 제작한 목도리입니다.",
     src: "../../images/eggVest.jpg",
-    like: 100,
+    like: 0,
   },
 ];
 
