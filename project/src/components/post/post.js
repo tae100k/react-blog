@@ -24,7 +24,7 @@ function Post(props) {
         </div>
         <div className="photoContainer">
           <button onClick={modalCheck}>자세히 보기</button>
-          <img alt={props.item.title} src={props.item.src} />
+          {/* <img alt={props.item.title} src={props.item.src} /> */}
         </div>
       </div>
       <hr />

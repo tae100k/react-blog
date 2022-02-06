@@ -11,11 +11,11 @@ button {
   padding: 8px 16px;
   margin-top: 12px;
 }
-
+/* 
 .photoContainer img {
   width: 75px;
   margin-top: 10px;
-}
+} */
 
 .photoContainer {
   display: flex;
