@@ -13,7 +13,7 @@
 - 게시글 클릭 시 모달창 표시 [[#3]](https://github.com/tae100k/react-blog/issues/3)
     - 모달창에서 게시글 제목, 내용, 날짜, 설명, 사진 표시
     
-<img height="400px" src="https://user-images.githubusercontent.com/78027252/152671132-d4d0d560-5bf7-46c3-8945-75d878e1557b.gif"/>
+<img height="600px" src="https://user-images.githubusercontent.com/78027252/152671132-d4d0d560-5bf7-46c3-8945-75d878e1557b.gif"/>
     
 ## 로컬 환경 구동
 
@@ -61,10 +61,6 @@
   
 
 ```
-
-##  💻 배포
-🔗 배포 링크 : https://knittingnanymous.netlify.app/
-
 
 ## 배운점
     
